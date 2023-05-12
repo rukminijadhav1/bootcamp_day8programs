@@ -1,0 +1,7 @@
+#!/bin/bash -x
+
+isPartTime=1
+isFullTime=2
+empRatePerHr=20
+numOfWorkingDays=20
+maxRateInMonth=1
